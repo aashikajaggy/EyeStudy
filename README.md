@@ -5,3 +5,7 @@ This is my coding project for an ML-powered iPhone app that helps blind people a
 
 
 ![Screen Shot 2020-10-11 at 9 59 54 PM](https://user-images.githubusercontent.com/68720223/121604870-5391f680-ca19-11eb-8090-f927f703310e.png)
+
+
+https://user-images.githubusercontent.com/68720223/121605116-d450f280-ca19-11eb-8024-33a3f44c8997.mp4
+
